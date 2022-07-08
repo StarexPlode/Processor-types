@@ -1,13 +1,13 @@
 # Types of Processors
-## Arm based and x64 based Processor's
+## ARM based and x64 based processors
 
->NOTE: wherever the term `x86` is used, it also means `x64` unless specified.
+>NOTE: Wherever the term `x86` is used, it also means `x64` unless specified.
 
-## 1.Arm based Processor's
+## 1. ARM based processors
 ARM Processor are Mobile and Developement board based Processor, those won't be used on New Pc, ARM processors only offer these basic instructions. Thus, a reduced instruction set  ARM processors use less power than x86/x64 processors at the same clock speed.Usually ARM Processor used on Mobiles and Development board rather than Pc
 Companies such as Qualcomm, Mediatek use ARM architecture, these chips are mostly made for mobile phones but are also used in single board computers such as a Raspberry pi and ARM-based laptops such as a pinebook pro. ARM only makes the design for the processors, and don't manufature any. Instead it licenses these rights to other companies such as Samsung,Qualcomm, Mediatek etc who then use this design to make custom processors based on the ARM architecture.
 
-## 2.x86 And 64 based Processors
+## 2. x86 And x64 based processors
 ## x64
 x64 stands for 64-bit processor architecture, which is found in most modern computers. They can handle more amount of ram as compared to x86 processors
 Also known as <strong>AMD 64</strong> as AMD made this architecture first.
